@@ -1,0 +1,1 @@
+{"name":"小记","short_name":"小记","description":"记录情绪、身体感受和睡眠状态","start_url":"/","display":"standalone","background_color":"#fdf6f0","theme_color":"#fdf6f0","lang":"en","scope":"/","orientation":"portrait","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
